@@ -46,7 +46,7 @@
 | ⚙️ **Customizable** | Edit your message, delay, triggers |
 | 🐧 **Linux Native** | Works on Kali Linux (amd64 only) |
 | 🔒 **VAC Safe (External)** | No DLL, no injection, no write to memory |
-| 🧱 **Modular Build** | Windows version in roadmap |
+| 🧱 **Modular Build** | Windows version come soon|
 
 ---
 
