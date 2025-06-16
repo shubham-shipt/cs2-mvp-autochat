@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  🔒 No aim assist. No wallhack. Just clean MVP recognition + chat automation using String Data type Only.
+  🔒 No aim assist. No wallhack. Just clean MVP recognition + chat automation using In game console.
 </p>
 
 <p align="center">
