@@ -32,7 +32,10 @@
 - Tool auto types your message  
 - Looks 100% human (not bot-like)
 
-🎯 Purpose = show off your GitHub or message **naturally** in casual/private games
+🎯 Purpose = show  your 
+ messages in loop 
+
+*naturally** in casual/private games
 
 ---
 
