@@ -8,7 +8,6 @@
 </p>
 
 <p align="center">
-  🧠 <b>This tool auto-types a custom message "https://github.com/shubham-shipt" in CS2 chat ONLY when you're MVP</b><br>
   🔒 No aim assist. No wallhack. Just clean MVP recognition + chat automation using String Data type Only.
 </p>
 
