@@ -74,6 +74,15 @@
 | Desktop | X11 only (Wayland not supported) |
 
 ---
+---
+
+## 🖼️ Screenshots
+
+| In-Game MVP Freeze |
+|--------------------|
+| ![MVP Freeze](scan1.png) |
+
+---
 
 ## ⚙️ Installation
 
@@ -140,15 +149,7 @@ But never use in ranked or comp. Use only in:
 + This tool is safe because it doesn’t inject or write memory.
 ```
 
----
 
-## 🖼️ Screenshots
-
-| In-Game MVP Freeze |
-|--------------------|
-| ![MVP Freeze](screens/mvp_freeze.png) |
-
----
 
 ## 🔮 Coming Soon (For Windows)
 
