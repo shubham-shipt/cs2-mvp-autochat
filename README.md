@@ -1,5 +1,5 @@
 <h1 align="center">
-  🎯 CS2 MVP Auto Chat Tool — Kali Linux Edition
+  🎯 CS2 MVP Auto Chat Tool — Kali Linux Edition,
 </h1>
 
 <p align="center">
