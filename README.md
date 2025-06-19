@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/ARCH-AMD64-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/INTEL-I5%2012TH--GEN-gold?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/VAC-SAFE%20(EXTERNAL)-limegreen?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=shubham-shipt&label=%20visits&color=0D5F1A&style=flat" />
 </p>
 
 ---
