@@ -1,0 +1,10 @@
+<svg width="250" height="120" viewBox="0 0 250 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad49" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#31ff57;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00ff41;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="250" height="120" fill="url(#grad49)"/>
+  <text x="125" y="65" text-anchor="middle" fill="#000" font-family="monospace" font-size="24" font-weight="bold">Kali 49</text>
+</svg>
